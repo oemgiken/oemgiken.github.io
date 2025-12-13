@@ -3,56 +3,56 @@
 
   <!-- トップページ -->
   <url>
-    <loc>https://oemgiken.static.jp/index.html</loc>
+    <loc>https://oemgiken.com/index.html</loc>
     <lastmod>2025-08-11</lastmod>
     <priority>1.0</priority>
   </url>
 
   <!-- 会社概要 -->
   <url>
-    <loc>https://oemgiken.static.jp/profile.html</loc>
+    <loc>https://oemgiken.com/profile.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- 事業内容 -->
   <url>
-    <loc>https://oemgiken.static.jp/act.html</loc>
+    <loc>https://oemgiken.com/act.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.9</priority>
   </url>
 
   <!-- 製品紹介 -->
   <url>
-    <loc>https://oemgiken.static.jp/goods.html</loc>
+    <loc>https://oemgiken.com/goods.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.8</priority>
   </url>
 
   <!-- 採用情報 -->
   <url>
-    <loc>https://oemgiken.static.jp/recruit.html</loc>
+    <loc>https://oemgiken.com/recruit.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- CSR情報 -->
   <url>
-    <loc>https://oemgiken.static.jp/csr.html</loc>
+    <loc>https://oemgiken.com/csr.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.6</priority>
   </url>
 
   <!-- 関連リンク -->
   <url>
-    <loc>https://oemgiken.static.jp/link.html</loc>
+    <loc>https://oemgiken.com/link.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.5</priority>
   </url>
 
   <!-- お問い合わせ -->
   <url>
-    <loc>https://oemgiken.static.jp/contact.html</loc>
+    <loc>https://oemgiken.com/contact.html</loc>
     <lastmod>2025-08-08</lastmod>
     <priority>0.6</priority>
   </url>
