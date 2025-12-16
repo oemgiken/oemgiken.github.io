@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://oemgiken.static.jp/sitemap.xml
+Sitemap: https://owncloud.oemgiken.com/sitemap.xml
